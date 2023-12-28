@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--root layout-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="11dp"
+    tools:context=".MainActivity">
+
+
+</LinearLayout>
+
+<!--<ImageView
+     android:layout_width="match_parent"
+     android:layout_height="300dp"
+     android:scaleType="fitXY"
+     android:src="@drawable/ic_launcher_background"
+     android:contentDescription="@string/about"
+
+
+     />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        android:textSize="18sp"
+        android:textStyle="bold"
+
+
+
+        />
+ <EditText
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:ems="12"
+     android:inputType="text"
+     android:hint="Enter your name"
+
+
+     />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="contact us"
+        android:textStyle="bold"
+
+/>-->
+    <!--android:layout_alignParentRight="true"
+    android:layout_alignParentBottom="true"
+       android:layout_centerHorizontal="true"
+          android:layout_centerVertical="true"
+          android:layout_centerInParent="true"
+            android:orientation="vertical"
+             android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:textAllCaps="true"
+     android:textStyle="bold"
+    -->
+
+
+<!--<androidx.appcompat.widget.AppCompatButton-->
+<!--android:id="@+id/child1"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:backgroundTint="#D3CCCC"-->
+<!--android:layout_centerInParent="true"-->
+<!--android:text="child1"-->
+
+<!--    />-->
+
+
+
+<!--<androidx.appcompat.widget.AppCompatButton-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:backgroundTint="#D3CCCC"-->
+<!--android:text="child2"-->
+<!--android:layout_centerVertical="true"-->
+<!--android:layout_toLeftOf="@+id/child1"-->
+
+<!--    />-->
+
+<!--<androidx.appcompat.widget.AppCompatButton-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:backgroundTint="#D3CCCC"-->
+<!--android:text="child2"-->
+<!--android:layout_centerVertical="true"-->
+<!--android:layout_toRightOf="@+id/child1"-->
+
+<!--    />-->
+
+
+<!--<androidx.appcompat.widget.AppCompatButton-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:backgroundTint="#D3CCCC"-->
+<!--android:text="child2"-->
+<!--android:layout_centerHorizontal="true"-->
+<!--android:layout_above="@+id/child1"-->
+
+<!--    />-->
+<!--<androidx.appcompat.widget.AppCompatButton-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:backgroundTint="#D3CCCC"-->
+<!--android:text="child2"-->
+<!--android:layout_centerHorizontal="true"-->
+<!--android:layout_below="@+id/child1"-->
+
+<!--    />-->
